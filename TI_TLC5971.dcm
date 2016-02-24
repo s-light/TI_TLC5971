@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TLC5971
+D TI TLC5971 - 12-Channel, 16-Bit, Enhanced Spectrum, PWM, RGB, LED Driver with 3.3-V Linear Regulator
+K 12Ch, 16Bit, Serial, PWM, ConstantCurrent, LED-Driver, TI, Texas Instruments, 
+F http://www.ti.com/product/TLC5971/description
+$ENDCMP
+#
+$CMP TLC5971PWP
+D TI TLC5971 - 12-Channel, 16-Bit, Enhanced Spectrum, PWM, RGB, LED Driver with 3.3-V Linear Regulator
+K 12Ch, 16Bit, Serial, PWM, ConstantCurrent, LED-Driver, TI, Texas Instruments, 
+F http://www.ti.com/product/TLC5971/description
+$ENDCMP
+#
+$CMP TLC5971PWPR
+D TI TLC5971 - 12-Channel, 16-Bit, Enhanced Spectrum, PWM, RGB, LED Driver with 3.3-V Linear Regulator
+K 12Ch, 16Bit, Serial, PWM, ConstantCurrent, LED-Driver, TI, Texas Instruments, 
+F http://www.ti.com/product/TLC5971/description
+$ENDCMP
+#
+$CMP TLC5971RGER
+D TI TLC5971 - 12-Channel, 16-Bit, Enhanced Spectrum, PWM, RGB, LED Driver with 3.3-V Linear Regulator
+K 12Ch, 16Bit, Serial, PWM, ConstantCurrent, LED-Driver, TI, Texas Instruments, 
+F http://www.ti.com/product/TLC5971/description
+$ENDCMP
+#
+#End Doc Library
